@@ -5,3 +5,7 @@
 2. install nodemon for restart server
     npm install --save-dev nodemon
 
+3. npm install mongoose
+
+4. create environment variable and store password in their
+ npm install dotenv

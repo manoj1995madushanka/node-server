@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
 
+// import db connection
+const mongoose = require('./dbConnection');
+
 
 // import routs
 const authRoute = require('./router/auth')
