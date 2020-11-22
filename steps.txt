@@ -1,0 +1,7 @@
+1. run npm init 
+2. install express for handle routes
+    npm install express 
+
+2. install nodemon for restart server
+    npm install --save-dev nodemon
+

@@ -1,0 +1,19 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj1995madushanka/node-server.git"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj1995madushanka/node-server/issues"
+  },
+  "homepage": "https://github.com/manoj1995madushanka/node-server#readme"
+}
